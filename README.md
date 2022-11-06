@@ -1,1 +1,1 @@
-# javascript-color-flipper
+# JavaScript Color Flipper 🌈 
